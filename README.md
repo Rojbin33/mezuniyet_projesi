@@ -1,2 +1,2 @@
 # mezuniyet_projesi
-Brawl stars hakkında discord botuna soru sorcan ve oda sana cevap vercek
+Web sayfası üzerinde sevdiğim oyun hakkında bilgiler vercem(brawl stars)
