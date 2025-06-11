@@ -1,2 +1,2 @@
 # mezuniyet_projesi
-Bazı oyunları tanıtan bir web site mesela (brawl stars,mobile legeands,hayday,roblox vb.)
+Brawl stars hakkında discord botuna soru sorcan ve oda sana cevap vercek
